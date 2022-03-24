@@ -1,0 +1,3 @@
+https://iss.moex.com/iss/engines/stock/markets/shares/boards/TQBR/securities.json?iss.meta=off&marketdata.columns=SECID,ISSUECAPITALIZATION&securities.columns=SECID,SHORTNAME,ISSUESIZE
+https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/
+.json?history.columns=TRADEDATE,SHORTNAME,OPEN&iss.meta=off&
